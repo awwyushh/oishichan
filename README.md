@@ -13,6 +13,10 @@ Oishi-chan is a fun, food-focused chatbot built with Next.js and powered by Goog
 - **Error Handling**: Graceful error messages when things go wrong in Oishi-chan's kitchen.
 - **Markdown Support**: Responses are rendered with markdown for rich text formatting.
 
+## Preview
+[![Video Thumbnail](https://drive.google.com/thumbnail?id=d/1r239PDBQPk_Idi_ln3-BSSz1qwhr69lC)](https://drive.google.com/file/d/1r239PDBQPk_Idi_ln3-BSSz1qwhr69lC/preview)
+
+
 ## Tech Stack
 
 - **Next.js**: React framework for building the application.
