@@ -93,7 +93,7 @@ export default async function Landing() {
                   <div className="mt-4">
                     <Button className="w-full gap-1">
                       <MessageCircle className="h-4 w-4" />
-                      <span>Start Chatting</span>
+                      <Link href="/oishichan">Chat with OishiChan</Link>
                     </Button>
                   </div>
                 </div>
