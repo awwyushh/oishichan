@@ -2,6 +2,7 @@
 
 Oishi-chan is a fun, food-focused chatbot built with Next.js and powered by Google's Gemini AI. She’s your kawaii virtual chef who only answers food-related questions in a playful, Japanese weeb/waifu style, occasionally calling you "Oni-chan" for extra charm! This project features a responsive chat interface with typing effects, skeleton loaders, and a delightful user experience.
 
+![oishi_login](https://github.com/user-attachments/assets/103f075d-577f-44c2-82cb-bd82df526531)
 
 
 ## Features
