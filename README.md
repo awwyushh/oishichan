@@ -120,14 +120,10 @@ module.exports = nextConfig;
    ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by anime waifu culture and culinary adventures!
 - Thanks to xAI for sparking the idea of fun AI assistants.
-- Built with love by **[Your Name]** on March 06, 2025.
+- Built with love by **Ayush Shukla** on March 06, 2025.
 
 Happy cooking with Oishi-chan, Oni-chan~! 💖
