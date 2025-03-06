@@ -108,8 +108,8 @@ const OishiChan = () => {
     <div className="min-h-screen flex items-center justify-center p-4 bg-gray-50">
       <div className="flex flex-col w-full max-w-2xl h-[85vh] sm:h-[80vh] md:h-[90vh] bg-white shadow-lg rounded-xl overflow-hidden">
         {/* Header */}
-        <div className="flex-shrink-0 p-4 bg-gradient-to-r from-pink-400 to-purple-500">
-          <h1 className="text-xl sm:text-2xl font-bold text-center text-white">🍣 Oishi-chan Chat</h1>
+        <div className="flex-shrink-0 p-4">
+          <h1 className="text-xl sm:text-2xl font-bold text-center">🍣 Oishi-chan Chat</h1>
         </div>
 
         {/* Chat Container */}
